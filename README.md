@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahamad</h1>
 <h3 align="center">A full-stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilcode&label=Profile%20views&color=0e75b6&style=flat" alt="shakilcode" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilcode&label=Profile%20views&color=0e75b6&style=flat" alt="shakilcode" /> </p>
 
 ---
+
+[![Shakil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShakilCode&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ShakilCode&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShakilCode&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilCode&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ShakilCode&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 - 🌱 I’m currently learning **Laravel, The Complete 2024 Web Development Bootcamp**
 
 - 📫 How to reach me **shakilahamedya0108@gmail.com**
 
-- ⚡ Fun fact **Call me as Shaz**
+- ⚡ Fun fact **Call me as Shaz**|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
