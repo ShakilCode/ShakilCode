@@ -4,18 +4,32 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilcode&label=Profile%20views&color=0e75b6&style=flat" alt="shakilcode" /> </p>
 
 ---
-
-| ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=ShakilCode&show_icons=true&theme=tokyonight) | ![Shakil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShakilCode&theme=tokyonight) |
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+| ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=ShakilCode&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilCode&theme=tokyonight)  |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilCode&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ShakilCode&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+### 👨🏻‍💻 &nbsp;About Me
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🌱 I’m currently learning **Laravel, The Complete 2024 Web Development Bootcamp**
 
 - 📫 How to reach me **shakilahamedya0108@gmail.com**
 
 - ⚡ Fun fact **Call me as Shaz**
+</td>
+<td width="50%" align="center">
 
-<h3 align="left">Connect with me:</h3>
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+---
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
 <a href="https://linkedin.com/in/shakil ahamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakil ahamad" height="30" width="40" /></a>
 <a href="https://instagram.com/shakil_ahamad0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakil_ahamad0108" height="30" width="40" /></a>
