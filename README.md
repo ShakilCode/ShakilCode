@@ -5,7 +5,7 @@
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-| ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=ShakilCode&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilCode&theme=tokyonight)  |
+| ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=ShakilCode&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilCode&langs_count=10&layout=compact&theme=tokyonight)  |
 | --- | --- |
 
 ### 👨🏻‍💻 &nbsp;About Me
