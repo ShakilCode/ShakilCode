@@ -13,7 +13,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Laravel, The Complete 2024 Web Development Bootcamp**
+- 🌱 Learning by building and solving real problems
 
 - 📫 How to reach me **shakilahamedya0108@gmail.com**
 
