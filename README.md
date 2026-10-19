@@ -17,7 +17,7 @@
 
 - 🌱 Learning by building and solving real problems
 
-- 📫 How to reach me **shakilahamedya0108@gmail.com**
+- 📫 How to reach me **shakilahamadya0108@gmail.com**
 
 - ⚡ Fun fact **Call me as Shaz**
 </td>
